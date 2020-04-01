@@ -1,0 +1,59 @@
+{
+  "Open": {
+    "summary": "🤑 Work"
+  },
+  "Break": {
+    "summary": "☕ Break"
+  },
+  "Lunch": {
+    "summary": "🎭 Intermission"
+  },
+  "Coaching_Adhoc": {
+    "summary": "⏳ Coach Session"
+  },
+  "Coaching_Exception": {
+    "summary": "👨‍💻 Coaching Exception"
+  },
+  "Back_Up_Sales": {
+    "summary": "🙋‍♂️ Backup Sales"
+  },
+  "Reschedule_Off": {
+    "summary": "📅 Reschedule Off"
+  },
+  "Reschedule_On": {
+    "summary": "📅 Reschedule On"
+  },
+  "Flex_Off": {
+    "summary": "💪 Flex Off"
+  },
+  "Flex_On": {
+    "summary": "💪 Flex On"
+  },
+  "Holiday_Closed": {
+    "summary": "⛱️ Holiday Closed"
+  },
+  "Training_New_Skill": {
+    "summary": "👨‍🏫 Training"
+  },
+  "Training_Nesting": {
+    "summary": "👨‍🏫 Training"
+  },
+  "Meeting_PSI": {
+    "summary": "🤝 Team Meeting"
+  },
+  "VTO": {
+    "summary": "🏓 VTO"
+  },
+  "Future_VTO": {
+    "summary": "🌈 Future VTO"
+  },
+  "Vacation_Unpaid": {
+    "summary": "⛳ Unpaid Time Off"
+  },
+  "Vacation_Paid": {
+    "summary": "⛳ Paid Time Off"
+  },
+  "Trade_Off": {
+    "summary": "🎁 Trade Off"
+  }
+}
